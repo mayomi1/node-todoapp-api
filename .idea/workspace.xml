@@ -2,6 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2e924a0-e827-4f10-a45f-75f3a404e6ff" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bcrypt/node_modules/nan/nan_implementation_pre_12_inl.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bcrypt/node_modules/node-pre-gyp/node_modules/npmlog/node_modules/gauge/node_modules/has-unicode/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bcrypt/node_modules/node-pre-gyp/node_modules/rc/node_modules/deep-extend/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bcrypt/node_modules/node-pre-gyp/node_modules/request/node_modules/extend/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bcrypt/node_modules/node-pre-gyp/node_modules/request/node_modules/har-validator/node_modules/ajv/lib/compile/validation_error.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bcrypt/node_modules/node-pre-gyp/node_modules/request/node_modules/har-validator/node_modules/ajv/node_modules/co/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bcrypt/node_modules/node-pre-gyp/node_modules/request/node_modules/har-validator/src/error.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bcrypt/node_modules/node-pre-gyp/node_modules/request/node_modules/http-signature/http_signing.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bcrypt/node_modules/node-pre-gyp/node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/draft-04/links" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bcrypt/node_modules/node-pre-gyp/node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/asn1/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bcrypt/node_modules/node-pre-gyp/node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/jodid25519/lib/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bcrypt/node_modules/node-pre-gyp/node_modules/request/node_modules/tough-cookie/lib/cookie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bcrypt/node_modules/node-pre-gyp/node_modules/rimraf/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bcrypt/node_modules/node-pre-gyp/node_modules/tar-pack/node_modules/fstream/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bcrypt/node_modules/node-pre-gyp/node_modules/tar/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/dicer/lib/PartStream.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/menu_preprocessor.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jsonwebtoken/.history/.gitignore_20170513144908" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jsonwebtoken/node_modules/joi/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jsonwebtoken/node_modules/joi/node_modules/moment/locale/ka.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jsonwebtoken/node_modules/joi/node_modules/moment/src/lib/locale/lists.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jsonwebtoken/node_modules/joi/node_modules/moment/src/locale/el.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jsonwebtoken/node_modules/joi/test/alternatives.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lodash/_baseConformsTo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lodash/_root.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lodash/fp/forEachRight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lodash/fp/toPath.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lodash/toSafeInteger.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongoose/examples/express/connection-sharing/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mpath/bench.out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/passport-jwt/node_modules/jsonwebtoken/.history/test/verify.tests_20170513154325.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/passport-jwt/node_modules/jsonwebtoken/node_modules/joi/.eslintignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/passport-jwt/node_modules/jsonwebtoken/node_modules/joi/node_modules/moment/locale/en-au.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/passport-jwt/node_modules/jsonwebtoken/node_modules/joi/node_modules/moment/locale/uk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/passport-jwt/node_modules/jsonwebtoken/node_modules/joi/node_modules/moment/src/lib/moment/prototype.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/passport-jwt/node_modules/jsonwebtoken/node_modules/joi/node_modules/moment/src/locale/el.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/passport-jwt/node_modules/jsonwebtoken/node_modules/joi/node_modules/moment/src/locale/tlh.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/passport-jwt/node_modules/jsonwebtoken/node_modules/lodash.once/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/require_optional/LICENSE" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="todoapp.iws" />
@@ -183,48 +222,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="todoapp" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="todoapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="todoapp" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="todoapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="todoapp" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="todoapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="todoapp" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -502,12 +499,12 @@
       <updated>1501075544667</updated>
       <workItem from="1501075554768" duration="18535000" />
       <workItem from="1501120354343" duration="29000" />
-      <workItem from="1501120466818" duration="986000" />
+      <workItem from="1501120466818" duration="1369000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19550000" />
+    <option name="totallyTimeSpent" value="19933000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
